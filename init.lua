@@ -12,6 +12,7 @@ modules_list = {
     "modules/lighting",  -- manage lighting colors
     "modules/utils", -- utility functions
     "modules/launcher", -- launcher for some applications
+    "modules/windows", -- manage windows
 }
 
 -- Load modules
